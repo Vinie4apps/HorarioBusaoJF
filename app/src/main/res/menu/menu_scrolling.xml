@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.vinie4apps.horariobusaojf.ScrollingActivity">
+
+<item android:id="@+id/chat"
+    android:title="Chat"
+    app:showAsAction="always"
+    android:icon="@drawable/ic_baseline_forum_24"/>
+
+    <item
+        android:icon="@drawable/ic_baseline_star_1"
+        android:title="Remover dos favoritos"
+        android:id="@+id/favSI"
+        app:showAsAction="always" />
+    <item
+        android:icon="@drawable/ic_baseline_star_border_22"
+        android:title="Adiconar aos favoritos"
+        android:id="@+id/favNO"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/inti"
+        android:icon="@drawable/ic_baseline_directions_bus_24"
+        android:orderInCategory="100"
+        android:title="Intinerário"
+        app:showAsAction="always" />
+
+
+
+</menu>

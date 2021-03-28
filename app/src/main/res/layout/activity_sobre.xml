@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="Sobre o App:\n\n
+Olá caro usuário, obrigado por baixar o app Horário Busão Santos Dumont, um app feito com intuito de ajudar a mobilidade pública de forma simples e funcional.
+\n\nAjude o Projeto:\n\n
+Todas as informações contidas nesse app foram retiradas de portais da web públicos, sem nenhuma ligação com alguma empresa do tipo, dessa forma preciso que os usuários ajudem o projeto se puder. \n\nComo?\n\n
+Simples, caso note erros no App ou informações sobre os horários das linhas, sugestões e qualquer tipo de feedback fique à vontade para entrar em contado comigo através do meu e-mail dedicado ao App.\n\n
+Vinie4apps@gmail.com\n
+\nAtualizações:\n\n
+Sempre quando houver alterações dos horários das linhas, correção de bugs ou implementação de novos recursos no App, haverá uma atualização disponível na Google Play store.
+O App se encontra na Versão: 1.0 \n\n
+Divulgue:\n\n
+Divulgar o Projeto para seus amigos e conhecidos também é uma forma de ajudar com a continuidade do App."
+            android:textAlignment="center"
+            android:textSize="18sp" />
+
+    </ScrollView>

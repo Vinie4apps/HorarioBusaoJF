@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Horário Busão JF</string>
+    <string name="texto_exemplar">Texto Exemplar</string>
+    <string name="pesquisa">Pesquisa</string>
+    <string name="Filgeiras">100 - Filgueiras</string>
+    <string name="title_activity_tabs">tabs</string>
+    <string name="tab_text_1">Semana</string>
+    <string name="tab_text_2">sábados</string>
+    <string name="tab_text_3">domingos e feriados</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="favoritos">Favoritos</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="hintSearchMess">Pesquise sua linha aqui !</string>
+    <string name="messageAddfav">Linha Adicionada aos Favoritos !</string>
+
+
+    <string name="facebook_app_id">2333327920302308</string>
+    <string name="fb_login_protocol_scheme">fb2333327920302308</string>
+
+
+</resources>

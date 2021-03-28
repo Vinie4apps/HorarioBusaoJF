@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "692526817753",
+    "firebase_url": "https://horariobusaojf.firebaseio.com",
+    "project_id": "horariobusaojf",
+    "storage_bucket": "horariobusaojf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692526817753:android:3045c9c7baab5794b4f9c8",
+        "android_client_info": {
+          "package_name": "com.vinie4apps.horariobusaojf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692526817753-va5vv0ejdg30j83ukkpnrp6p9v1kcbeg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe0vnzLZk7M1SLSvZ44Oegqd5Lg5bir90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692526817753-va5vv0ejdg30j83ukkpnrp6p9v1kcbeg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

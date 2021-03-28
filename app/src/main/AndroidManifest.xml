@@ -1,0 +1,926 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.vinie4apps.horariobusaojf">
+
+    <permission android:name="android.permission.INTERNET" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/logo_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".ChatLinhas.Linha300.Chat_linha399"></activity>
+        <activity android:name=".ChatLinhas.Linha300.Chat_linha335" />
+        <activity android:name=".ChatLinhas.Linha300.Chat_linha333" />
+        <activity android:name=".ChatLinhas.Linha300.Chat_linha332" />
+        <activity android:name=".ChatLinhas.Linha300.Chat_linha331" />
+        <activity android:name=".ChatLinhas.Linha300.Chat_linha326" />
+        <activity android:name=".ChatLinhas.Linha300.Chat_linha325" />
+        <activity android:name=".ChatLinhas.Linha300.Chat_linha322" />
+        <activity android:name=".ChatLinhas.Linha300.Chat_linha321" />
+        <activity android:name=".ChatLinhas.Linha300.Chat_linha315" />
+        <activity android:name=".ChatLinhas.Linha300.Chat_linha313" />
+        <activity android:name=".ChatLinhas.Linha300.Chat_linha311" />
+        <activity android:name=".ChatLinhas.Linha300.Chat_linha309" />
+        <activity android:name=".ChatLinhas.Linha300.Chat_linha308" />
+        <activity android:name=".ChatLinhas.Linha300.Chat_linha307" />
+        <activity android:name=".ChatLinhas.Linha300.Chat_linha306" />
+        <activity android:name=".ChatLinhas.Linha300.Chat_linha305" />
+        <activity android:name=".ChatLinhas.Linha300.Chat_linha304" />
+        <activity android:name=".ChatLinhas.Linha300.Chat_linha303" />
+        <activity android:name=".ChatLinhas.Linha300.Chat_linha302" />
+        <activity android:name=".ChatLinhas.Linha300.Chat_linha301" />
+        <activity android:name=".ChatLinhas.Linha200.Chat_linha299" />
+        <activity android:name=".ChatLinhas.Linha200.Chat_linha259" />
+        <activity android:name=".ChatLinhas.Linha200.Chat_linha249" />
+        <activity android:name=".ChatLinhas.Linha200.Chat_linha239" />
+        <activity android:name=".ChatLinhas.Linha200.Chat_linha233" />
+        <activity android:name=".ChatLinhas.Linha200.Chat_linha232" />
+        <activity android:name=".ChatLinhas.Linha200.Chat_linha231" />
+        <activity android:name=".ChatLinhas.Linha200.Chat_linha230" />
+        <activity android:name=".ChatLinhas.Linha200.Chat_linha26" />
+        <activity android:name=".ChatLinhas.Linha200.Chat_linha222" />
+        <activity android:name=".ChatLinhas.Linha200.Chat_linha221" />
+        <activity android:name=".ChatLinhas.Linha200.Chat_linha220" />
+        <activity android:name=".ChatLinhas.Linha200.Chat_linha218" />
+        <activity android:name=".ChatLinhas.Linha200.Chat_linha216" />
+        <activity android:name=".ChatLinhas.Linha200.Chat_linha215" />
+        <activity android:name=".ChatLinhas.Linha200.Chat_linha214" />
+        <activity android:name=".ChatLinhas.Linha200.Chat_linha213" />
+        <activity android:name=".ChatLinhas.Linha200.Chat_linha211" />
+        <activity android:name=".ChatLinhas.Linha200.Chat_linha210" />
+        <activity android:name=".ChatLinhas.Linha200.Chat_linha209" />
+        <activity android:name=".ChatLinhas.Linha200.Chat_linha208" />
+        <activity android:name=".ChatLinhas.Linha200.Chat_linha207" />
+        <activity android:name=".ChatLinhas.Linha200.Chat_linha206" />
+        <activity android:name=".ChatLinhas.Linha200.Chat_linha205" />
+        <activity android:name=".ChatLinhas.Linha200.Chat_linha204" />
+        <activity android:name=".ChatLinhas.Linha200.Chat_linha203" />
+        <activity android:name=".ChatLinhas.Linha200.Chat_linha202" />
+        <activity android:name=".ChatLinhas.Linha200.Chat_linha201" />
+        <activity android:name=".ChatLinhas.Linha100.Chat_linha190" />
+        <activity android:name=".ChatLinhas.Linha100.Chat_linha155" />
+        <activity android:name=".ChatLinhas.Linha100.Chat_linha150" />
+        <activity android:name=".ChatLinhas.Linha100.Chat_linha145" />
+        <activity android:name=".ChatLinhas.Linha100.Chat_linha143" />
+        <activity android:name=".ChatLinhas.Linha100.Chat_linha142" />
+        <activity android:name=".ChatLinhas.Linha100.Chat_linha141" />
+        <activity android:name=".ChatLinhas.Linha100.Chat_linha140" />
+        <activity android:name=".ChatLinhas.Linha100.Chat_linha137" />
+        <activity android:name=".ChatLinhas.Linha100.Chat_linha136" />
+        <activity android:name=".ChatLinhas.Linha100.Chat_linha135" />
+        <activity android:name=".ChatLinhas.Linha100.Chat_linha134" />
+        <activity android:name=".ChatLinhas.Linha100.Chat_linha133" />
+        <activity android:name=".ChatLinhas.Linha100.Chat_linha132" />
+        <activity android:name=".ChatLinhas.Linha100.Chat_linha131" />
+        <activity android:name=".ChatLinhas.Linha100.Chat_linha130" />
+        <activity android:name=".ChatLinhas.Linha100.Chat_linha129" />
+        <activity android:name=".ChatLinhas.Linha100.Chat_linha126" />
+        <activity android:name=".ChatLinhas.Linha100.Chat_linha125" />
+        <activity android:name=".ChatLinhas.Linha100.Chat_linha124" />
+        <activity android:name=".ChatLinhas.Linha100.Chat_linha123" />
+        <activity android:name=".ChatLinhas.Linha100.Chat_linha122" />
+        <activity android:name=".ChatLinhas.Linha100.Chat_linha121" />
+        <activity android:name=".ChatLinhas.Linha100.Chat_linha120" />
+        <activity android:name=".ChatLinhas.Linha100.Chat_linha119" />
+        <activity android:name=".ChatLinhas.Linha100.Chat_linha118" />
+        <activity android:name=".ChatLinhas.Linha100.Chat_linha117" />
+        <activity android:name=".ChatLinhas.Linha100.Chat_linha116" />
+        <activity android:name=".ChatLinhas.Linha100.Chat_linha115" />
+        <activity android:name=".ChatLinhas.Linha100.Chat_linha114" />
+        <activity android:name=".ChatLinhas.Linha100.Chat_linha113" />
+        <activity android:name=".ChatLinhas.Linha100.Chat_linha112" />
+        <activity android:name=".ChatLinhas.Linha100.Chat_linha111" />
+        <activity android:name=".ChatLinhas.Linha100.Chat_linha110" />
+        <activity android:name=".ChatLinhas.Linha100.Chat_linha109" />
+        <activity android:name=".ChatLinhas.Linha100.Chat_linha108" />
+        <activity android:name=".ChatLinhas.Linha100.Chat_linha107" />
+        <activity android:name=".ChatLinhas.Linha100.Chat_linha106" />
+        <activity android:name=".ChatLinhas.Linha100.Chat_linha105" />
+        <activity android:name=".ChatLinhas.Linha100.Chat_linha104" />
+        <activity android:name=".ChatLinhas.Linha100.Chat_linha103" />
+        <activity android:name=".ChatLinhas.Linha100.Chat_linha102" />
+        <activity android:name=".ChatLinhas.Linha100.Chat_linha101" />
+        <activity
+            android:name=".ChatLinhas.Linha100.Chat_linha100"
+            android:parentActivityName=".Linhas.Linha100.Linha100" />
+        <activity android:name=".Chat.chatTeste" />
+        <activity android:name=".Chat.register" />
+        <activity android:name=".Chat.login" />
+        <activity android:name=".Fav.Fav" />
+        <activity
+            android:name=".Linhas.Linha400.Linha447"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha700.Linha785"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha700.Linha775"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha700.Linha767"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha700.Linha766"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha700.Linha760"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha700.Linha758"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha700.Linha757"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha700.Linha754"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha700.Linha753"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha700.Linha752"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha700.Linha751"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha700.Linha749"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha700.Linha748"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha700.Linha747"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha700.Linha746"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha700.Linha745"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha700.Linha744"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha700.Linha743"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha700.Linha742"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha700.Linha741"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha700.Linha740"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha700.Linha739"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha700.Linha738"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha700.Linha737"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha700.Linha736"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha700.Linha735"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha700.Linha734"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha700.Linha733"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha700.Linha732"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha700.Linha731"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha700.Linha730"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha700.Linha729"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha700.Linha728"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha700.Linha727"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha700.Linha726"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha700.Linha725"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha700.Linha724"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha700.Linha723"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha700.Linha722"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha700.Linha721"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha700.Linha720"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha700.Linha719"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha700.Linha718"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha700.Linha717"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha700.Linha716"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha700.Linha715"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha700.Linha714"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha700.Linha713"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha700.Linha712"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha700.Linha711"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha700.Linha710"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha700.Linha709"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha700.Linha708"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha700.Linha707"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha700.Linha706"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha700.Linha705"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha700.Linha704"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha700.Linha703"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha700.Linha702"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha700.Linha701"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha700.Linha700"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha600.Linha646"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha600.Linha640"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha600.Linha636"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha600.Linha630"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha600.Linha626"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha600.Linha621"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha600.Linha620"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha600.Linha616"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha600.Linha615"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha600.Linha614"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha600.Linha613"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha600.Linha612"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha600.Linha611"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha600.Linha610"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha600.Linha609"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha600.Linha608"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha600.Linha607"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha600.Linha606"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha600.Linha605"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha600.Linha604"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha600.Linha603"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha600.Linha602"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha600.Linha601"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha600.Linha600"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha500.Linha599"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha500.Linha590"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha500.Linha560"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha500.Linha555"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha500.Linha549"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha500.Linha548"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha500.Linha547"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha500.Linha546"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha500.Linha545"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha500.Linha544"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha500.Linha543"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha500.Linha542"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha500.Linha541"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha500.Linha540"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha500.Linha539"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha500.Linha538"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha500.Linha537"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha500.Linha535"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha500.Linha534"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha500.Linha533"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha500.Linha532"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha500.Linha531"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha500.Linha530"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha500.Linha529"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha500.Linha528"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha500.Linha527"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha500.Linha526"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha500.Linha525"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha500.Linha524"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha500.Linha523"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha500.Linha522"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha500.Linha521"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha500.Linha520"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha500.Linha519"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha500.Linha518"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha500.Linha516"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha500.Linha515"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha500.Linha514"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha500.Linha512"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha500.Linha511"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha500.Linha510"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha500.Linha509"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha500.Linha508"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha500.Linha505"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha500.Linha503"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha500.Linha501"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha400.Linha499"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha400.Linha445"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha400.Linha444"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha400.linha443"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha400.Linha441"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha400.Linha440"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha400.Linha439"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha400.Linha438"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha400.Linha437"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha400.Linha436"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha400.Linha435"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha400.linha434"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha400.Linha433"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha400.Linha432"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha400.Linha431"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha400.Linha430"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha400.Linha429"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha400.Linha428"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha400.Linha427"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha400.Linha426"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha400.Linha425"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha400.Linha424"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha400.Linha423"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha400.Linha422"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha400.Linha420"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha400.Linha416"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha400.Linha415"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha400.Linha413"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha400.Linha412"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha400.Linha411"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha400.Linha407"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha400.Linha406"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha400.Linha405"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha400.Linha404"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha400.Linha403"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha400.Linha402"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha400.Linha400"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha300.Linha399"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha300.Linha335"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha300.Linha333"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha300.Linha332"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha300.Linha331"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha300.Linha326"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha300.Linha325"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha300.Linha322"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha300.Linha321"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha300.Linha315"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha300.Linha313"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha300.Linha311"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha300.Linha309"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha300.Linha308"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha300.Linha307"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha300.Linha306"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha300.Linha305"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha300.linha304"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha300.Linha303"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha300.Linha301"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha700.Linha755"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha300.Linha302"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha200.Linha299"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha200.Linha259"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha200.Linha249"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha200.Linha239"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha200.Linha233"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha200.Linha232"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha200.Linha231"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha200.Linha230"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha200.Linha226"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha200.Linha222"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha200.linha221"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha200.Linha220"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha200.Linha218"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha200.Linha216"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha200.Linha215"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha200.Linha214"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha200.Linha213"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha200.Linha211"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha200.Linha210"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha200.Linha209"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha200.Linha208"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha200.Linha207"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha200.Linha206"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha200.Linha205"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha200.Linha204"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha200.Linha203"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha200.Linha202"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha200.Linha201"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity android:name=".Extras.Sobre" />
+        <activity
+            android:name=".Linhas.Linha100.Linha190"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha100.Linha155"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha100.Linha150"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha100.Linha145"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha100.Linha143"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha100.Linha142"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha100.Linha141"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha100.Linha140"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha100.Linha137"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha100.Linha136"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha100.Linha135"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha100.Linha134"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha100.Linha133"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha100.Linha132"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha100.Linha131"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha100.Linha130"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha100.Linha129"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha100.Linha126"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha100.Linha125"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha100.Linha124"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha100.Linha123"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha100.Linha122"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha100.Linha121"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha100.Linha120"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha100.Linha119"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha100.Linha118"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha100.Linha117"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha100.Linha116"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha100.Linha115"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha100.Linha114"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha100.Linha113"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha100.Linha112"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha100.Linha111"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha100.Linha110"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha100.Linha109"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha100.Linha108"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha100.Linha107"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha100.Linha106"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha100.Linha105"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha100.Linha104"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha100.Linha103"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha100.Linha102"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha100.Linha101"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity
+            android:name=".Linhas.Linha100.Linha100"
+            android:parentActivityName=".Main.MainActivity" />
+        <activity android:name=".Main.MainActivity" />
+        <activity android:name=".Intros.SplashScreen" />
+        <activity android:name=".Intros.Intro">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-2926866560475939~4672075978" />
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+
+        <meta-data android:name="com.facebook.sdk.ApplicationId" android:value="@string/facebook_app_id"/> <activity android:name="com.facebook.FacebookActivity" android:configChanges= "keyboard|keyboardHidden|screenLayout|screenSize|orientation" android:label="@string/app_name" /> <activity android:name="com.facebook.CustomTabActivity" android:exported="true"> <intent-filter> <action android:name="android.intent.action.VIEW" /> <category android:name="android.intent.category.DEFAULT" /> <category android:name="android.intent.category.BROWSABLE" /> <data android:scheme="@string/fb_login_protocol_scheme" /> </intent-filter> </activity>
+
+    </application>
+
+</manifest>

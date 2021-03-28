@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#031983</color>
+    <color name="colorPrimaryDark">#031983</color>
+    <color name="colorAccent">#031983</color>
+    <color name="ciano">#04A489</color>
+    <color name="Sbcolor">#FFFFFF</color>
+    <color name="vermelho">#D00B08</color>
+    <color name="cardback">#DBDBDB</color>
+</resources>
